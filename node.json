@@ -1,0 +1,12 @@
+{
+    "name": "Video player",
+    "options": [{
+        "title": "Asset",
+        "ui_width": 12,
+        "name": "file",
+        "type": "resource",
+        "valid": ["image", "video"],
+        "features": ["hevc", "image4k"],
+        "default": "empty.png"
+    }]
+}

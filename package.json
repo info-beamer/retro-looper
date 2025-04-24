@@ -1,0 +1,6 @@
+{
+    "name": "Retro looper",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "Applies retro effects on a looping video",
+    "platforms": ["pi/v6", "pi/v7", "pi/v8"]
+}
